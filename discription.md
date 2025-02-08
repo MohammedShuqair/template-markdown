@@ -31,7 +31,7 @@ automatically do a linting check on the code in this repository, you can see
 this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 
 If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+that your code will pass before pushing Pg by running `npm run lint:md` locally.
 
 ## Repo Setup
 
